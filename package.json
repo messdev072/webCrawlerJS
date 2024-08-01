@@ -1,0 +1,25 @@
+{
+  "name": "webcrawlerjs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "jest": {
+    "transform": {}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messdev072/webCrawlerJS.git"
+  },
+  "author": "mess",
+  "bugs": {
+    "url": "https://github.com/messdev072/webCrawlerJS/issues"
+  },
+  "homepage": "https://github.com/messdev072/webCrawlerJS#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
